@@ -4,7 +4,7 @@ go 1.26.6
 
 require (
 	filippo.io/age v1.3.1
-	modernc.org/sqlite v1.56.0
+	modernc.org/sqlite v1.57.0
 )
 
 require c2sp.org/CCTV/age v0.0.0-20260605191406-1e3d2860d46e // indirect
